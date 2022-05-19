@@ -1,0 +1,24 @@
+#written-order{
+    width: 60px;
+}
+
+#written-title{
+    text-overflow: ellipsis;
+}
+
+#writer{
+    width:200px;
+}
+
+#written-date{
+    width: 100px;
+}
+
+#visits{
+    width: 100px;
+}
+
+.table-hover .table-contents{
+    height: 100px;
+    text-overflow: ellipsis;
+}
